@@ -227,7 +227,7 @@ Customer-Churn-Prediction/
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Customer-Churn-Prediction.git
+git clone https://github.com/gopyka17-oss/Customer-Churn-Prediction.git
 ```
 
 ```bash
