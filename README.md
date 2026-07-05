@@ -56,13 +56,15 @@ The project covers the complete data science lifecycle:
 
 # 🛠 Tech Stack
 
-| Programming | Libraries | ML |
-|--------------|-----------|------|
-| Python | Pandas | Logistic Regression |
-| Python | NumPy | Decision Tree |
-| Python | Matplotlib | Random Forest |
-| Python | Seaborn | XGBoost |
-| Python | Joblib | GridSearchCV |
+| Category | Tools / Libraries |
+|---|---|
+| Programming Language | Python |
+| Data Handling | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn, XGBoost |
+| Model Evaluation | Accuracy, Precision, Recall, F1 Score, ROC-AUC |
+| Imbalance Handling | SMOTE |
+| Model Saving | Joblib |
 
 ---
 
@@ -128,10 +130,10 @@ Business Insights
 
 ---
 
-# 🤖 Machine Learning Models
+# 🤖 Machine Learning Model Performance
 
-| Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
-|--------|----------|-----------|--------|------|----------|
+| Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
+|---|---:|---:|---:|---:|---:|
 | Logistic Regression | 83.25% | 71.95% | 28.99% | 41.33% | 79.65% |
 | Decision Tree | 78.05% | 46.19% | 47.67% | 46.92% | 66.74% |
 | Random Forest | 86.50% | 81.00% | 43.98% | 57.01% | 85.87% |
