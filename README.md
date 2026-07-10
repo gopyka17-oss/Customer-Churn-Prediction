@@ -292,6 +292,12 @@ streamlit run app.py
 ![Prediction](images/web_prediction.png)
 ---
 
+## 🌐 Live Demo
+
+Try the web app here:
+
+https://customer-churn-prediction-kkzoskbynxdj66xdpdby3p.streamlit.app/
+
 # 👨‍💻 Author
 
 ## **Gopika P**
