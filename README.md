@@ -205,6 +205,8 @@ Top Predictive Features:
 
 ✔ Churn prediction enables targeted retention campaigns.
 
+
+
 ---
 
 # 📁 Repository Structure
@@ -265,6 +267,29 @@ python src/customer_churn_prediction.py
 - Docker
 - Cloud Deployment
 
+# 🌐 Interactive Web Application
+
+This project also includes an interactive Streamlit dashboard.
+
+Features:
+
+- Customer churn prediction
+- Churn probability score
+- Risk level indicator
+- Customer profile summary
+- Personalized retention recommendations
+
+Run locally:
+
+```bash
+streamlit run app.py
+```
+
+## 🌐 Streamlit Dashboard
+
+![Dashboard](images/web_dashboard_home.png)
+
+![Prediction](images/web_prediction.png)
 ---
 
 # 👨‍💻 Author
